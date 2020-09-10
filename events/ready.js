@@ -48,11 +48,5 @@ module.exports = class {
       });
       });
     }, 14400);
-
-    setInterval(async () => {
-      await require('../utils/checkUnban')(bot)
-      //await require('../utils/checkDatabase')(bot)
-      //await require('../utils/checkReminds')(bot)
-    }, 1000);
   }
 }
