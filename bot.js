@@ -4,7 +4,7 @@ const bot = new VoltBot({
 	fetchAllMembers: true,
 	disableMentions: "roles"
 });
-if(bot.shard.ids.includes(0)) bot.init("models", "events", "commands", "dashboard")
+if(bot.shard.ids.includes(0)) bot.init("models", "events", "commands")
 else bot.init("models", "events", "commands");
 bot.login(bot.config.connection.token);
 
