@@ -28,6 +28,8 @@
 # Base
 The base of the Official VoltBot
 
+[![Discord Bots](https://discordbots.org/api/widget/699534920271265812.svg)](https://discordbots.org/bot/699534920271265812)
+
 # 📰・Instructions
 - Download files
 - Make ``npm install``
