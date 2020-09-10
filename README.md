@@ -28,20 +28,22 @@
 # Base
 The base of the Official VoltBot
 
-# Instructions
+# 📰・Instructions
 - Download files
 - Make ``npm install``
 - And there is !
 
-# Developers
+# 💻・Developers
 - [D0wzy](https://github.com/D0wzy)
 - [Freiik](https://github.com/Freiik)
 - [ShEthan](https://github.com/ImShethan)
 
-# Links
+# 📎・Links
 - [GitHub](https://github.com/VoltBot-Discord)
 - [Twitter](https://twitter.com/VoltBot_xyz)
 - [Top.gg](https://top.gg/bot/699534920271265812)
 - [Support Discord](https://gg.discord.fr/VoltBot)
+- [Invitation Link](https://voltbot.xyz/add)
+- [Website](https://voltbot.xyz)
 
 Thanks to [Derp](https://github.com/Derpinou) & [Forge](https://github.com/ForgeOff) 🎉
