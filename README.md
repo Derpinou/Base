@@ -11,4 +11,10 @@ The base of the Official VoltBot
 - [Freiik](https://github.com/Freiik)
 - [ShEthan](https://github.com/ImShethan)
 
+# Links
+- [GitHub](https://github.com/VoltBot-Discord)
+- [Twitter](https://twitter.com/VoltBot_xyz)
+- [Top.gg](https://top.gg/bot/699534920271265812)
+- [Support Discord](https://gg.discord.fr/VoltBot)
+
 Thanks to [Derp](https://github.com/Derpinou) & [Forge](https://github.com/ForgeOff) 🎉
