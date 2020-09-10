@@ -1,0 +1,121 @@
+{
+   "api": {
+      "youtube": {
+         "key": ""
+      },
+      "blague": {
+         "key": ""
+      },
+      "rapidapi": {
+         "key": "",
+         "secret": ""
+      },
+      "genius": {
+         "key": "",
+         "secret": "",
+         "id": ""
+      },
+      "amethyste": {
+         "key": ""
+      }
+   },
+   "color": {
+      "red": "#b70000",
+      "orange": "#ff6a00",
+      "green": "#00ff26",
+      "purple": "#d604cf"
+   },
+   "database": {
+      "ip": "",
+      "db": "voltbot",
+      "user": "",
+      "pass": ""
+   },
+   "owners": [
+      {
+         "id": "679559090741051393",
+         "github": "FreiikDev",
+         "twitter": "FreiikDev"
+      },
+      {
+         "id": "709534713500401685",
+         "twitter": "dowzylad",
+         "github": "D0wzy"
+      }
+   ],
+   "staffid": [
+      ""
+   ],
+   "commands": {
+      "class": [
+         "general",
+         "utils",
+         "mod",
+         "premium",
+         "config",
+         "security",
+         "music",
+         "staff",
+         "owner",
+         "giveaway",
+         "stats",
+         "fun",
+         "admin",
+         "ticket"
+      ]
+   },
+   "status": "enabled",
+   "emojis": {
+      "success": "",
+      "dnd": "<:dnd:712908534718660648>",
+      "idle": "<:idle:712908534689562634>",
+      "online": "<:online:712908534400155729>",
+      "invisible": "<:offline:712908534362406943>",
+      "error": "",
+      "volt": "",
+      "loading": "<a:loading:747826920753987766>",
+      "redcross": "<a:redcross:748264319539478610>"
+   },
+   "shards": {
+      "count": 3,
+      "webhook": {
+         "id": "",
+         "token": ""
+      }
+   },
+   "channels": {
+      "errors": "",
+      "shards": "",
+      "presence": "",
+      "serverslog": ""
+   },
+   "support": {
+      "id": "712288162600189954",
+      "invitation": "https://discord.gg/9pE8WEQ"
+   },
+   "partner": [
+      {
+         "id": "716809225283698718",
+         "link": "https://discord.gg/YKpXE7z"
+      },
+      {
+         "id": "587655299184197643",
+         "link": "https://discord.gg/4dWNkYt"
+      }
+   ],
+   "broadcast": "",
+   "settings": {
+      "prefix": ";",
+      "language": "en",
+      "authorization": {
+         "owner": "Bot Owner",
+         "staff": "Bot Staff"
+      },
+      "cooldown": 2
+   },
+   "connection": {
+      "token": "",
+      "secret": "",
+      "id": ""
+   }
+}
